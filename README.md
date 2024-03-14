@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1M28wYjZvdmRnZXJlemk2M21nNmUxdzlkc3dtd3F3ZGwyeG9pZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="200"/>
 </div>
 
 <h2 align="left">Hi 👋! My name is Sébastien and I'm a Epitech Student, from France</h2>
@@ -12,7 +12,6 @@
 </div>
 
 ###
-/gh/devicons
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNnNTJ0eTM5NXZjcnhrdng2bXNtc25semlmbXE5YTNzODV3dWVydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6m50mO6l8smskQIYlk/giphy-downsized-large.gif"  />
 
 ###
@@ -37,7 +36,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
