@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1M28wYjZvdmRnZXJlemk2M21nNmUxdzlkc3dtd3F3ZGwyeG9pZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/W27ZxOmw40jZlhHUFW/giphy.gif" width="200"/>
 </div>
 
 <h2 align="left">Hi 👋! My name is Sébastien and I'm a Epitech Student, from France</h2>
