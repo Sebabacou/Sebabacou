@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/W27ZxOmw40jZlhHUFW/giphy.gif" width="200"/>
 </div>
 
-<h2 align="left">Hi 👋! My name is Sébastien and I'm a Epitech Student, from France</h2>
+<h2 align="left">Hi there! I'm Sébastien, an Epitech student hailing from France 🇫🇷</h2>
 
 ###
 
