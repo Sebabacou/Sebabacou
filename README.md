@@ -14,7 +14,6 @@
 ###
 
 <h2 align="left">Competencies</h2>
-###
 
 <div align="center">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" height="30" alt="Bash logo"  />
@@ -25,7 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
-  <
 </div>
 
 ###
